@@ -1,0 +1,13 @@
+body {
+    background-image: url("/img/party.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.dancer{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+
+
+}
